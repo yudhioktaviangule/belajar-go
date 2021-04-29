@@ -1,1 +1,5 @@
 package promethee
+
+func NilaiAdd() {
+
+}
